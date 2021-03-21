@@ -2,7 +2,7 @@
   "name": "tagger",
   "displayName": "Tagger",
   "description": "Enclose anything in HTML tags",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DanielKnights",
   "license": "MIT",
   "icon": "images/tagger-logo.png",
