@@ -2,6 +2,8 @@
 
 > Easily enclose any selection in HTML tags.
 
+![Example GIF](images/tagger-example.gif)
+
 Just type <kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>,</kbd> and enter your tag data in the prompt.
 
 Follows the format `tag#id.class|attr="value"`.

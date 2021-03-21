@@ -6,10 +6,6 @@
   "publisher": "DanielKnights",
   "license": "MIT",
   "icon": "images/tagger-logo.png",
-  "galleryBanner": {
-    "color": "#009DFF",
-    "theme": "dark"
-  },
   "author": {
     "name": "Daniel Knights",
     "email": "danknights95@gmail.com",
