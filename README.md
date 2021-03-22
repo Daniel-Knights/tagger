@@ -8,6 +8,10 @@ Just type <kbd>shift</kbd>+<kbd>alt</kbd>+<kbd>,</kbd> and enter your tag data i
 
 Follows the format `tag#id.class|attr="value"`.
 
+Supports multiple selections:
+
+![Example GIF](images/tagger-example-multi.gif)
+
 ---
 
 ## API
