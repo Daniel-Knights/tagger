@@ -3,6 +3,8 @@ import { commands, Range, window } from 'vscode'
 export function activate(): void {
   commands.registerTextEditorCommand('tagger.tag', (textEditor) => {
     window.showInputBox({ placeHolder: 'tag#id.class|attr="value"' }).then((tag) => {
+      if (!tag) return
+
       const { selections, document } = textEditor
 
       const formattedTags = selections.map((selection) => {
